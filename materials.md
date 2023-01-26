@@ -4,17 +4,12 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html url="https://image.yes24.com/momo/TopCate2477/MidCate001/247600078.jpg" width=175 align="right" %}
 
 ## Book
 
-Alan Turing and Noam Chomsky: Very Famous Book
+"Explorations in Computing: An Introduction to Computer Science and Python Programming" by John S. Conery. Chapman and Hall/CRC, 2014. ISBN 978-1466572447
 
 ## Additional Course Materials
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+* Will be updated later
