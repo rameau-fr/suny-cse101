@@ -4,7 +4,7 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="https://image.yes24.com/momo/TopCate2477/MidCate001/247600078.jpg" width=175 align="right" %}
+{% include image.html url="/_images/Book_image_Explorations.jpg" width=175 align="right" %}
 
 ## Book
 
