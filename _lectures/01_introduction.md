@@ -13,5 +13,5 @@ links:
 [//]: # (  name: codes)
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [Install VSCode on Windows]([http://example.com](https://code.visualstudio.com/docs/setup/windows))
+- Explorations in Computing: Chapter I
