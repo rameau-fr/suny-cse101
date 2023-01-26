@@ -2,8 +2,6 @@ instructors:
   - name: Francois Rameau
     profile_pic: /_images/pp/Francois_Rameau2.jpeg.png
     webpage: https://rameau-fr.github.io/
-    [//]: # (- name: Minerva McGonagall)
-    [//]: # ( profile_pic: /_images/pp/mcgonagall.jpg)
 
 teaching_assistants:
   - name: Harry Potter
