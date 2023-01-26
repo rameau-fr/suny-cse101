@@ -1,7 +1,9 @@
 instructors:
-  - name: Francois Rameau
-    profile_pic: /_images/pp/Francois_Rameau2.jpeg.png
-    webpage: https://rameau-fr.github.io/
+  - name: Albus Dumbledore
+    profile_pic: /_images/pp/dumbledore.jpg
+    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+  - name: Minerva McGonagall
+    profile_pic: /_images/pp/mcgonagall.jpg
 
 teaching_assistants:
   - name: Harry Potter
@@ -12,6 +14,6 @@ teaching_assistants:
     profile_pic: /_images/pp/granger.jpg
     webpage: https://en.wikipedia.org/wiki/Hermione_Granger
 
-  [//]: # (- name: Ron Weasley)
-  [//]: # (  profile_pic: /_images/pp/weasley.jpg)
-  [//]: # (  webpage: https://en.wikipedia.org/wiki/Ron_Weasley)
+  - name: Ron Weasley
+    profile_pic: /_images/pp/weasley.jpg
+    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
