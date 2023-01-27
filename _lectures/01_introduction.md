@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 2022-03-02T8:00:00+4:30
 title: Introduction
 tldr: "Introduction of this class."
 thumbnail: /static_files/presentations/Lect1_illus.jpg
