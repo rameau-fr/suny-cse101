@@ -8,7 +8,7 @@ links:
     - url: [https://google.com](https://rameau-fr.github.io/suny-cse101/
 )
       name: slides
-[//]: # (- url: /static_files/presentations/01 - Introduction.pdf)
+[//]: # (- url: /static_files/presentations/01-Introduction.pdf)
 [//]: # (  name: notes )
 [//]: # (- url: /static_files/presentations/code.zip)
 [//]: # (  name: codes)
