@@ -6,14 +6,14 @@ instructors:
     [//]: # (profile_pic: /_images/pp/mcgonagall.jpg)
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Shubhangi Garnaik 
+    profile_pic: /_images/pp/SGarnaik.jpg
+    [//]: # ( webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character) )
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  - name: Yelin Cheon
+    profile_pic: /_images/pp/YCheon.jpg
+    [//]: # (webpage: https://en.wikipedia.org/wiki/Hermione_Granger)
 
-    [//]: # (- name: Ron Weasley)
-    [//]: # (profile_pic: /_images/pp/weasley.jpg)
+  - name: Inuk Baik
+    profile_pic: /_images/pp/IBaik.jpg
     [//]: # (webpage: https://en.wikipedia.org/wiki/Ron_Weasley)
