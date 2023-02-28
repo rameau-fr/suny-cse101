@@ -5,9 +5,10 @@ title: Introduction
 tldr: "Introduction of this class."
 thumbnail: /static_files/presentations/Lect1_illus.jpg
 links: 
-    - url: https://google.com
+    - url: [https://google.com](https://rameau-fr.github.io/suny-cse101/
+)
       name: slides
-[//]: # (- url: /static_files/presentations/lec.zip)
+[//]: # (- url: /static_files/presentations/01 - Introduction.pdf)
 [//]: # (  name: notes )
 [//]: # (- url: /static_files/presentations/code.zip)
 [//]: # (  name: codes)
