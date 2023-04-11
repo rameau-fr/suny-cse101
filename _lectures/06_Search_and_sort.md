@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-03-07T8:00:00+4:30
+date: 2023-04-11T8:00:00+4:30
 title: Search and sort
 tldr: "How to quickly find a value in a list, how to sort numbers in Python"
 hide_from_announcments: false
